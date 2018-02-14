@@ -1,0 +1,4 @@
+EMAIL: rohankonde@yahoo.com
+MSG_COUNT: 1
+TIME_INT: 5
+MESSAGE_BODY: Testing Message System!
